@@ -1,0 +1,75 @@
+.alerta {
+    color: red;
+    font-size: large;
+}
+li {
+    list-style: none;
+}
+
+.planilha {
+    width: 100%;
+}
+
+.img-planilha {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+/*
+===============
+    Grafico
+===============
+*/
+#bargraphVertical{
+    font:0.7em Arial;
+    width:100%;
+    border:1px solid #ccc;
+    margin-left: 20%;
+    position: relative;
+}
+#bargraphVertical td{
+    padding:0px 30px 0px;
+    margin:0;
+    vertical-align:bottom;
+    text-align:center;
+    background:#eee 15px bottom;
+}
+#bargraphVertical img{
+    display:block;
+    border-right:1px solid #fff;
+}
+#bargraphVertical th{
+    font-weight:normal;
+}
+
+#linha {
+    height: 200px;
+    position: relative;
+    margin: 0;
+    top: 10px;
+    left: 4;
+  }
+  #linha hr {
+    border: 3px solid rgb(3, 0, 156);
+    position: absolute;
+    top: 85px;
+    width: 85%;
+    margin: auto;
+    left: 7%;
+    right: 0;
+    z-index: 2;
+  }
+
+
+
+  /*
+=======================
+    Cadastro de Cliente
+=======================
+*/
+
+
+  
